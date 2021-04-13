@@ -1,0 +1,13 @@
+{
+    "applinks": {
+    "apps": [],
+    "details": [{
+        "appID": "WDA59C4558.com.honglei.shuaci",
+        "paths": ["/shuaci/*"]
+        },
+        {
+        "appID": "WDA59C4558.com.hongleir.fullwallpaper.cn",
+        "paths": ["/fullwallpaper/*"]
+        }]
+    }
+}
